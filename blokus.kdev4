@@ -1,0 +1,4 @@
+[Project]
+Name=blokus
+Manager=KDevCMakeManager
+VersionControl=kdevgit
